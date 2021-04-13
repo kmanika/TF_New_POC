@@ -1,3 +1,4 @@
+# All Variables
 variable "test_subnet_id" {
   type = string
   default = "subnet-0a643fcb0ff87897a"
